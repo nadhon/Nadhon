@@ -7,7 +7,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Perfil voltado para desenvolvimento de aplicações, desenvovimento de jogos, aparendizagem em programação C# e guardar as artes que faço.
+  Profile focused on application development, game development, learning C# programming and saving the arts I make.
+  game developer for 4 years with 2 projects posted, one in a group and one individually, experience with 2d platform games, sprite designer and character design
 </ p>
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c#"/></code>
