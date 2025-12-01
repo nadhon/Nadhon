@@ -1,7 +1,7 @@
 ## Hi there i'm Nadhon Ladino👋
 
 [![card](https://github-readme-stats.vercel.app/api?username=Nadhon&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadhon&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
