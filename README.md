@@ -12,7 +12,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Nadhon?theme=yousa-ling&padding=5&scale=2&align=top&pixelated=1&darkmode=auto"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Nadhon?theme=yousa-ling&padding=7&scale=1.8&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
